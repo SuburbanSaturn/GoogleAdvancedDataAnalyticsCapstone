@@ -19,11 +19,20 @@ Various models were employed to address this business problem, including Logisti
 - **Feature Importance:**
   - Satisfaction Level was the most critical feature influencing employee departure in both models, demonstrating a strong negative correlation with the target variable.
   - Last evaluation, number of projects, and average monthly hours were also considerable factors affecting the likelihood of an employee leaving.
+ 
+ - <img width="607" alt="image" src="https://github.com/SuburbanSaturn/GoogleAdvancedDataAnalyticsCapstone/assets/112595259/c3ce08ee-4c7a-4ef3-ae2d-5e51b04e2d6c">
+
+
+  - <img width="607" alt="image" src="https://github.com/SuburbanSaturn/GoogleAdvancedDataAnalyticsCapstone/assets/112595259/7c89af66-c4ca-4c64-bb54-89ef916e39d7">
+
   
 - **Correlation Insights:**
   - Employee satisfaction showed a strong negative correlation with leaving, implying lower satisfaction leads to higher chances of leaving.
   - Features like last evaluation, number of projects, and average monthly hours showed significant positive correlations with each other, affecting employee satisfaction inversely.
   - Promotions in the last 5 years and work accidents had notable impacts on employee departure, though comparatively minor.
+ 
+<img width="607" alt="image" src="https://github.com/SuburbanSaturn/GoogleAdvancedDataAnalyticsCapstone/assets/112595259/8c4065ef-dd34-4684-b35b-f4c0fc943a01">
+
 
 #### **Recommendations:**
 1. **Employee Satisfaction:**
@@ -39,5 +48,14 @@ Various models were employed to address this business problem, including Logisti
 4. **Model Utilization:**
    - Employ the predictive models, particularly Random Forest or XGBoost, to forecast potential employee churn, allowing for timely interventions.
    - Continuously update and refine the models to adapt to evolving organizational dynamics and employee behaviors.
+   
+   - <img width="583" alt="RandomForestClassiger" src="https://github.com/SuburbanSaturn/GoogleAdvancedDataAnalyticsCapstone/assets/112595259/9f5a3456-8c2c-4f49-948c-46c90fb22583">
+
+   - <img width="514" alt="image" src="https://github.com/SuburbanSaturn/GoogleAdvancedDataAnalyticsCapstone/assets/112595259/be68fba2-292f-436a-af42-e133eea61403">
+
+   - <img width="514" alt="image" src="https://github.com/SuburbanSaturn/GoogleAdvancedDataAnalyticsCapstone/assets/112595259/3cbdb0b3-c0e8-49c9-bd01-6a723f79edb3">
+
+
+
 #### **Conclusion:**
 This project has successfully achieved its goals of identifying crucial factors influencing employee churn and establishing robust models to predict future turnovers. The derived insights and the predictive models can empower the company to cultivate a more conducive work environment and implement effective retention strategies, thus reducing employee turnover and fostering organizational growth.
